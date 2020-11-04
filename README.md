@@ -23,6 +23,8 @@ ___
 - [C2.1_JorgeDavidDIazUrias_TheChallengers](https://github.com/JDavidDiaz/Sistemas-Programables/blob/master/Blog/C2.1_JorgeDavidDiazUrias_TheChallengers.md) 
 - [C2.2_JorgeDavidDIazUrias_TheChallengers](https://github.com/JDavidDiaz/Sistemas-Programables/blob/master/Blog/C2.2_JorgeDavidDiazUrias_TheChallengers.md) 
 - [C2.3_JorgeDavidDIazUrias_TheChallengers](https://github.com/JDavidDiaz/Sistemas-Programables/blob/master/Blog/C2.3_JorgeDavidDiazUrias_TheChallengers.md)
+- [C3.1_JorgeDavidDIazUrias_TheChallengers](https://github.com/JDavidDiaz/Sistemas-Programables/blob/master/Blog/C3.1_JorgeDavidDiazUrias_TheChallengers.md)
+- [C3.2_JorgeDavidDIazUrias_TheChallengers](https://github.com/JDavidDiaz/Sistemas-Programables/blob/master/Blog/C3.2_JorgeDavidDiazUrias_TheChallengers.md)
 ___
 - [A1.2_JorgeDavidDIazUrias_TheChallengers](https://github.com/JDavidDiaz/Sistemas-Programables/blob/master/Docs/A1.2_JorgeDavidDiazUrias_TheChallengers.md)
 - [A1.3_JorgeDavidDIazUrias_TheChallengers](https://github.com/JDavidDiaz/Sistemas-Programables/blob/master/Docs/A1.3_JorgeDavidDiazUrias_TheChallengers.md) 
